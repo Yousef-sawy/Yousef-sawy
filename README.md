@@ -26,7 +26,4 @@ Passionate about building scalable web and mobile applications using the MERN st
 </p>
 
 ---
-
-<p align="right">
-  [![Visitor Count](https://visitcount.itsvg.in/api?id=yousef-sawy&icon=1&color=13)](https://visitcount.itsvg.in)
-</p>
+[![](https://visitcount.itsvg.in/api?id=yousef-sawy&icon=1&color=13)](https://visitcount.itsvg.in)
