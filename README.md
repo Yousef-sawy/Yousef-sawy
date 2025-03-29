@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-sawy/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousef.sawy3@gmail.com)
 
-Full Stack Developer | MERN & Vue.js Enthusiast<br>
-Computer Science graduate from Eslsca University.<br>
-Passionate about building scalable web and mobile applications.
+Full Stack Developer | MERN & Vue.js Enthusiast
+Computer Science graduate from Eslsca University.
+Passionate about building scalable web and mobile applications using the MERN stack with Vue.js.
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
@@ -21,9 +21,12 @@ Passionate about building scalable web and mobile applications.
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yousef-sawy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Yousef-sawy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-sawy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-sawy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+---
+
+<p align="right">
+  [![Visitor Count](https://visitcount.itsvg.in/api?id=yousef-sawy&icon=1&color=13)](https://visitcount.itsvg.in)
 </p>
