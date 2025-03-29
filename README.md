@@ -1,9 +1,9 @@
-## Hi there, I'm Yousef 👋
+## Hi there, I'm Yousef a Full Stack Developer👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-sawy/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousef.sawy3@gmail.com)
 
-Full Stack Developer | MERN & Vue.js Enthusiast
+ MERN || Vue.js || Django 
 Computer Science graduate from Eslsca University.
 Passionate about building scalable web and mobile applications using the MERN stack with Vue.js.
 
