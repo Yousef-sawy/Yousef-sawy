@@ -27,9 +27,3 @@ Passionate about building scalable web and mobile applications.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-sawy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
-
----
-
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=Yousef-sawy&icon=10&color=0" alt="Visitor Count"/>
-</p>
