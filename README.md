@@ -19,11 +19,3 @@ Passionate about building scalable web and mobile applications.
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Yousef-sawy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-sawy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
-</p>
-
----
-[![](https://visitcount.itsvg.in/api?id=yousef-sawy&icon=1&color=13)](https://visitcount.itsvg.in)
