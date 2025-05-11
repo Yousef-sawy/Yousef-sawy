@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-sawy/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousef.sawy3@gmail.com)
 
- MERN || Vue.js || Django <br>
+React || Vue.js || Node || Express || MongoDb || MYSQL <br>
 Computer Science graduate from Eslsca University.<br>
 Passionate about building scalable web and mobile applications.
 
